@@ -1,5 +1,6 @@
 # XF_Reports
 Этот плагин добавляет возможность напрямую репортить игрока на форум.
+Команда ``!sm_report```
 
 ## Требования
 [SteamWorks](https://users.alliedmods.net/~kyles/builds/SteamWorks/)
