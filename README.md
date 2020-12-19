@@ -6,6 +6,8 @@
 ## Требования
 [SteamWorks](https://users.alliedmods.net/~kyles/builds/SteamWorks/)
 
+[XenForo 2.1+](https://xenforo.com/community)
+
 CSS/CS:GO, под TF2 не проверялось
 
 ## Установка
